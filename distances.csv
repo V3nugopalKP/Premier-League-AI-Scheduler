@@ -1,0 +1,381 @@
+team_a,team_b,distance_km
+Arsenal,Aston Villa,161.3
+Arsenal,Bournemouth,151.2
+Arsenal,Brentford,14.4
+Arsenal,Brighton & Hove Albion,77.1
+Arsenal,Burnley,286.6
+Arsenal,Chelsea,9.9
+Arsenal,Crystal Palace,17.5
+Arsenal,Everton,285.1
+Arsenal,Fulham,11.9
+Arsenal,Leeds United,266.1
+Arsenal,Liverpool,284.2
+Arsenal,Manchester City,256.9
+Arsenal,Manchester United,258.5
+Arsenal,Newcastle United,393.4
+Arsenal,Nottingham Forest,169.1
+Arsenal,Sunderland,383.1
+Arsenal,Tottenham Hotspur,6.1
+Arsenal,West Ham United,6.6
+Arsenal,Wolverhampton Wanderers,179.9
+Aston Villa,Arsenal,161.3
+Aston Villa,Bournemouth,197.3
+Aston Villa,Brentford,157.4
+Aston Villa,Brighton & Hove Albion,221.3
+Aston Villa,Burnley,144.2
+Aston Villa,Chelsea,162.8
+Aston Villa,Crystal Palace,174.5
+Aston Villa,Everton,126.2
+Aston Villa,Fulham,161.8
+Aston Villa,Leeds United,142.6
+Aston Villa,Liverpool,125.3
+Aston Villa,Manchester City,110.4
+Aston Villa,Manchester United,109.5
+Aston Villa,Newcastle United,274.8
+Aston Villa,Nottingham Forest,69.7
+Aston Villa,Sunderland,269.5
+Aston Villa,Tottenham Hotspur,160.0
+Aston Villa,West Ham United,167.3
+Aston Villa,Wolverhampton Wanderers,18.9
+Bournemouth,Arsenal,151.2
+Bournemouth,Aston Villa,197.3
+Bournemouth,Brentford,137.0
+Bournemouth,Brighton & Hove Albion,124.1
+Bournemouth,Burnley,340.6
+Bournemouth,Chelsea,141.8
+Bournemouth,Crystal Palace,142.9
+Bournemouth,Everton,310.3
+Bournemouth,Fulham,139.7
+Bournemouth,Leeds United,338.8
+Bournemouth,Liverpool,309.4
+Bournemouth,Manchester City,306.5
+Bournemouth,Manchester United,304.9
+Bournemouth,Newcastle United,471.7
+Bournemouth,Nottingham Forest,249.9
+Bournemouth,Sunderland,465.7
+Bournemouth,Tottenham Hotspur,156.8
+Bournemouth,West Ham United,155.3
+Bournemouth,Wolverhampton Wanderers,207.2
+Brentford,Arsenal,14.4
+Brentford,Aston Villa,157.4
+Brentford,Bournemouth,137.0
+Brentford,Brighton & Hove Albion,71.4
+Brentford,Burnley,287.1
+Brentford,Chelsea,6.8
+Brentford,Crystal Palace,17.4
+Brentford,Everton,282.5
+Brentford,Fulham,5.0
+Brentford,Leeds United,268.6
+Brentford,Liverpool,281.6
+Brentford,Manchester City,256.6
+Brentford,Manchester United,257.8
+Brentford,Newcastle United,397.5
+Brentford,Nottingham Forest,171.1
+Brentford,Sunderland,387.7
+Brentford,Tottenham Hotspur,19.9
+Brentford,West Ham United,19.6
+Brentford,Wolverhampton Wanderers,175.5
+Brighton & Hove Albion,Arsenal,77.1
+Brighton & Hove Albion,Aston Villa,221.3
+Brighton & Hove Albion,Bournemouth,124.1
+Brighton & Hove Albion,Brentford,71.4
+Brighton & Hove Albion,Burnley,356.7
+Brighton & Hove Albion,Chelsea,69.4
+Brighton & Hove Albion,Crystal Palace,59.7
+Brighton & Hove Albion,Everton,347.5
+Brighton & Hove Albion,Fulham,68.9
+Brighton & Hove Albion,Leeds United,339.7
+Brighton & Hove Albion,Liverpool,346.6
+Brighton & Hove Albion,Manchester City,325.2
+Brighton & Hove Albion,Manchester United,326.1
+Brighton & Hove Albion,Newcastle United,468.9
+Brighton & Hove Albion,Nottingham Forest,242.0
+Brighton & Hove Albion,Sunderland,459.1
+Brighton & Hove Albion,Tottenham Hotspur,82.5
+Brighton & Hove Albion,West Ham United,75.4
+Brighton & Hove Albion,Wolverhampton Wanderers,238.4
+Burnley,Arsenal,286.6
+Burnley,Aston Villa,144.2
+Burnley,Bournemouth,340.6
+Burnley,Brentford,287.1
+Burnley,Brighton & Hove Albion,356.7
+Burnley,Chelsea,291.1
+Burnley,Crystal Palace,302.7
+Burnley,Everton,62.3
+Burnley,Fulham,290.8
+Burnley,Leeds United,43.2
+Burnley,Liverpool,62.5
+Burnley,Manchester City,34.1
+Burnley,Manchester United,36.5
+Burnley,Newcastle United,137.7
+Burnley,Nottingham Forest,119.2
+Burnley,Sunderland,136.5
+Burnley,Tottenham Hotspur,283.4
+Burnley,West Ham United,291.3
+Burnley,Wolverhampton Wanderers,133.5
+Chelsea,Arsenal,9.9
+Chelsea,Aston Villa,162.8
+Chelsea,Bournemouth,141.8
+Chelsea,Brentford,6.8
+Chelsea,Brighton & Hove Albion,69.4
+Chelsea,Burnley,291.1
+Chelsea,Crystal Palace,11.8
+Chelsea,Everton,287.6
+Chelsea,Fulham,2.3
+Chelsea,Leeds United,271.8
+Chelsea,Liverpool,286.7
+Chelsea,Manchester City,260.8
+Chelsea,Manchester United,262.2
+Chelsea,Newcastle United,400.0
+Chelsea,Nottingham Forest,174.4
+Chelsea,Sunderland,389.9
+Chelsea,Tottenham Hotspur,16.1
+Chelsea,West Ham United,13.6
+Chelsea,Wolverhampton Wanderers,181.1
+Crystal Palace,Arsenal,17.5
+Crystal Palace,Aston Villa,174.5
+Crystal Palace,Bournemouth,142.9
+Crystal Palace,Brentford,17.4
+Crystal Palace,Brighton & Hove Albion,59.7
+Crystal Palace,Burnley,302.7
+Crystal Palace,Chelsea,11.8
+Crystal Palace,Everton,299.4
+Crystal Palace,Fulham,12.7
+Crystal Palace,Leeds United,283.0
+Crystal Palace,Liverpool,298.5
+Crystal Palace,Manchester City,272.5
+Crystal Palace,Manchester United,274.0
+Crystal Palace,Newcastle United,410.7
+Crystal Palace,Nottingham Forest,185.7
+Crystal Palace,Sunderland,400.5
+Crystal Palace,Tottenham Hotspur,22.8
+Crystal Palace,West Ham United,16.3
+Crystal Palace,Wolverhampton Wanderers,192.8
+Everton,Arsenal,285.1
+Everton,Aston Villa,126.2
+Everton,Bournemouth,310.3
+Everton,Brentford,282.5
+Everton,Brighton & Hove Albion,347.5
+Everton,Burnley,62.3
+Everton,Chelsea,287.6
+Everton,Crystal Palace,299.4
+Everton,Fulham,286.8
+Everton,Leeds United,99.4
+Everton,Liverpool,1.0
+Everton,Manchester City,50.9
+Everton,Manchester United,44.8
+Everton,Newcastle United,192.0
+Everton,Nottingham Forest,134.2
+Everton,Sunderland,193.6
+Everton,Tottenham Hotspur,283.1
+Everton,West Ham United,290.7
+Everton,Wolverhampton Wanderers,109.7
+Fulham,Arsenal,11.9
+Fulham,Aston Villa,161.8
+Fulham,Bournemouth,139.7
+Fulham,Brentford,5.0
+Fulham,Brighton & Hove Albion,68.9
+Fulham,Burnley,290.8
+Fulham,Chelsea,2.3
+Fulham,Crystal Palace,12.7
+Fulham,Everton,286.8
+Fulham,Leeds United,271.8
+Fulham,Liverpool,285.9
+Fulham,Manchester City,260.4
+Fulham,Manchester United,261.8
+Fulham,Newcastle United,400.2
+Fulham,Nottingham Forest,174.3
+Fulham,Sunderland,390.3
+Fulham,Tottenham Hotspur,17.9
+Fulham,West Ham United,15.9
+Fulham,Wolverhampton Wanderers,180.1
+Leeds United,Arsenal,266.1
+Leeds United,Aston Villa,142.6
+Leeds United,Bournemouth,338.8
+Leeds United,Brentford,268.6
+Leeds United,Brighton & Hove Albion,339.7
+Leeds United,Burnley,43.2
+Leeds United,Chelsea,271.8
+Leeds United,Crystal Palace,283.0
+Leeds United,Everton,99.4
+Leeds United,Fulham,271.8
+Leeds United,Liverpool,99.4
+Leeds United,Manchester City,52.8
+Leeds United,Manchester United,58.9
+Leeds United,Newcastle United,133.2
+Leeds United,Nottingham Forest,97.6
+Leeds United,Sunderland,127.0
+Leeds United,Tottenham Hotspur,262.2
+Leeds United,West Ham United,270.2
+Leeds United,Wolverhampton Wanderers,137.2
+Liverpool,Arsenal,284.2
+Liverpool,Aston Villa,125.3
+Liverpool,Bournemouth,309.4
+Liverpool,Brentford,281.6
+Liverpool,Brighton & Hove Albion,346.6
+Liverpool,Burnley,62.5
+Liverpool,Chelsea,286.7
+Liverpool,Crystal Palace,298.5
+Liverpool,Everton,1.0
+Liverpool,Fulham,285.9
+Liverpool,Leeds United,99.4
+Liverpool,Manchester City,50.7
+Liverpool,Manchester United,44.5
+Liverpool,Newcastle United,192.6
+Liverpool,Nottingham Forest,133.5
+Liverpool,Sunderland,194.1
+Liverpool,Tottenham Hotspur,282.2
+Liverpool,West Ham United,289.8
+Liverpool,Wolverhampton Wanderers,108.7
+Manchester City,Arsenal,256.9
+Manchester City,Aston Villa,110.4
+Manchester City,Bournemouth,306.5
+Manchester City,Brentford,256.6
+Manchester City,Brighton & Hove Albion,325.2
+Manchester City,Burnley,34.1
+Manchester City,Chelsea,260.8
+Manchester City,Crystal Palace,272.5
+Manchester City,Everton,50.9
+Manchester City,Fulham,260.4
+Manchester City,Leeds United,52.8
+Manchester City,Liverpool,50.7
+Manchester City,Manchester United,6.4
+Manchester City,Newcastle United,170.2
+Manchester City,Nottingham Forest,93.3
+Manchester City,Sunderland,167.7
+Manchester City,Tottenham Hotspur,254.0
+Manchester City,West Ham United,261.9
+Manchester City,Wolverhampton Wanderers,99.4
+Manchester United,Arsenal,258.5
+Manchester United,Aston Villa,109.5
+Manchester United,Bournemouth,304.9
+Manchester United,Brentford,257.8
+Manchester United,Brighton & Hove Albion,326.1
+Manchester United,Burnley,36.5
+Manchester United,Chelsea,262.2
+Manchester United,Crystal Palace,274.0
+Manchester United,Everton,44.8
+Manchester United,Fulham,261.8
+Manchester United,Leeds United,58.9
+Manchester United,Liverpool,44.5
+Manchester United,Manchester City,6.4
+Manchester United,Newcastle United,173.7
+Manchester United,Nottingham Forest,96.6
+Manchester United,Sunderland,171.7
+Manchester United,Tottenham Hotspur,255.8
+Manchester United,West Ham United,263.6
+Manchester United,Wolverhampton Wanderers,97.6
+Newcastle United,Arsenal,393.4
+Newcastle United,Aston Villa,274.8
+Newcastle United,Bournemouth,471.7
+Newcastle United,Brentford,397.5
+Newcastle United,Brighton & Hove Albion,468.9
+Newcastle United,Burnley,137.7
+Newcastle United,Chelsea,400.0
+Newcastle United,Crystal Palace,410.7
+Newcastle United,Everton,192.0
+Newcastle United,Fulham,400.2
+Newcastle United,Leeds United,133.2
+Newcastle United,Liverpool,192.6
+Newcastle United,Manchester City,170.2
+Newcastle United,Manchester United,173.7
+Newcastle United,Nottingham Forest,228.6
+Newcastle United,Sunderland,16.4
+Newcastle United,Tottenham Hotspur,389.0
+Newcastle United,West Ham United,396.8
+Newcastle United,Wolverhampton Wanderers,267.3
+Nottingham Forest,Arsenal,169.1
+Nottingham Forest,Aston Villa,69.7
+Nottingham Forest,Bournemouth,249.9
+Nottingham Forest,Brentford,171.1
+Nottingham Forest,Brighton & Hove Albion,242.0
+Nottingham Forest,Burnley,119.2
+Nottingham Forest,Chelsea,174.4
+Nottingham Forest,Crystal Palace,185.7
+Nottingham Forest,Everton,134.2
+Nottingham Forest,Fulham,174.3
+Nottingham Forest,Leeds United,97.6
+Nottingham Forest,Liverpool,133.5
+Nottingham Forest,Manchester City,93.3
+Nottingham Forest,Manchester United,96.6
+Nottingham Forest,Newcastle United,228.6
+Nottingham Forest,Sunderland,220.2
+Nottingham Forest,Tottenham Hotspur,165.4
+Nottingham Forest,West Ham United,173.4
+Nottingham Forest,Wolverhampton Wanderers,77.6
+Sunderland,Arsenal,383.1
+Sunderland,Aston Villa,269.5
+Sunderland,Bournemouth,465.7
+Sunderland,Brentford,387.7
+Sunderland,Brighton & Hove Albion,459.1
+Sunderland,Burnley,136.5
+Sunderland,Chelsea,389.9
+Sunderland,Crystal Palace,400.5
+Sunderland,Everton,193.6
+Sunderland,Fulham,390.3
+Sunderland,Leeds United,127.0
+Sunderland,Liverpool,194.1
+Sunderland,Manchester City,167.7
+Sunderland,Manchester United,171.7
+Sunderland,Newcastle United,16.4
+Sunderland,Nottingham Forest,220.2
+Sunderland,Tottenham Hotspur,378.5
+Sunderland,West Ham United,386.3
+Sunderland,Wolverhampton Wanderers,263.0
+Tottenham Hotspur,Arsenal,6.1
+Tottenham Hotspur,Aston Villa,160.0
+Tottenham Hotspur,Bournemouth,156.8
+Tottenham Hotspur,Brentford,19.9
+Tottenham Hotspur,Brighton & Hove Albion,82.5
+Tottenham Hotspur,Burnley,283.4
+Tottenham Hotspur,Chelsea,16.1
+Tottenham Hotspur,Crystal Palace,22.8
+Tottenham Hotspur,Everton,283.1
+Tottenham Hotspur,Fulham,17.9
+Tottenham Hotspur,Leeds United,262.2
+Tottenham Hotspur,Liverpool,282.2
+Tottenham Hotspur,Manchester City,254.0
+Tottenham Hotspur,Manchester United,255.8
+Tottenham Hotspur,Newcastle United,389.0
+Tottenham Hotspur,Nottingham Forest,165.4
+Tottenham Hotspur,Sunderland,378.5
+Tottenham Hotspur,West Ham United,8.0
+Tottenham Hotspur,Wolverhampton Wanderers,178.7
+West Ham United,Arsenal,6.6
+West Ham United,Aston Villa,167.3
+West Ham United,Bournemouth,155.3
+West Ham United,Brentford,19.6
+West Ham United,Brighton & Hove Albion,75.4
+West Ham United,Burnley,291.3
+West Ham United,Chelsea,13.6
+West Ham United,Crystal Palace,16.3
+West Ham United,Everton,290.7
+West Ham United,Fulham,15.9
+West Ham United,Leeds United,270.2
+West Ham United,Liverpool,289.8
+West Ham United,Manchester City,261.9
+West Ham United,Manchester United,263.6
+West Ham United,Newcastle United,396.8
+West Ham United,Nottingham Forest,173.4
+West Ham United,Sunderland,386.3
+West Ham United,Tottenham Hotspur,8.0
+West Ham United,Wolverhampton Wanderers,185.9
+Wolverhampton Wanderers,Arsenal,179.9
+Wolverhampton Wanderers,Aston Villa,18.9
+Wolverhampton Wanderers,Bournemouth,207.2
+Wolverhampton Wanderers,Brentford,175.5
+Wolverhampton Wanderers,Brighton & Hove Albion,238.4
+Wolverhampton Wanderers,Burnley,133.5
+Wolverhampton Wanderers,Chelsea,181.1
+Wolverhampton Wanderers,Crystal Palace,192.8
+Wolverhampton Wanderers,Everton,109.7
+Wolverhampton Wanderers,Fulham,180.1
+Wolverhampton Wanderers,Leeds United,137.2
+Wolverhampton Wanderers,Liverpool,108.7
+Wolverhampton Wanderers,Manchester City,99.4
+Wolverhampton Wanderers,Manchester United,97.6
+Wolverhampton Wanderers,Newcastle United,267.3
+Wolverhampton Wanderers,Nottingham Forest,77.6
+Wolverhampton Wanderers,Sunderland,263.0
+Wolverhampton Wanderers,Tottenham Hotspur,178.7
+Wolverhampton Wanderers,West Ham United,185.9
