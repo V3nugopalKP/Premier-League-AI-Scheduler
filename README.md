@@ -89,19 +89,20 @@ This project demonstrates practical use of **AI planning & constraint reasoning*
 ---
 
 ## 🗂 Project Structure
-📦 Premier-League-AI-Scheduler
+
+📦 **Premier-League-AI-Scheduler**
 │
-├── app.py # Main Streamlit UI
-├── data_loader.py # Loads teams, slots, distances
-├── round_robin.py # Generates double round robin
-├── greedy_scheduler.py # Greedy match assignment
-├── csp_scheduler.py # CSP-based match scheduler
+├── **app.py** — Main Streamlit UI  
+├── **data_loader.py** — Loads teams, slots, distances  
+├── **round_robin.py** — Generates double round robin  
+├── **greedy_scheduler.py** — Greedy match assignment  
+├── **csp_scheduler.py** — CSP-based match scheduler  
 │
-├── teams.csv # Team info + coordinates
-├── slots.csv # Calendar time slots
-├── distances.csv # Optional (unused)
+├── **teams.csv** — Team info + coordinates  
+├── **slots.csv** — Calendar time slots  
+├── **distances.csv** — For Future Use 
 │
-└── README.md # Documentation
+└── **README.md** — Documentation
 
 ## ▶ Running the App
 
