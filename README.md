@@ -63,20 +63,31 @@ Produces a chronologically sorted schedule, not just a week-based one.
 | Plotting | Matplotlib |
 | Datasets | Premier League teams + calendar slots |
 
-## Project Structure
+## 📁 Project Structure
 
-```
+```text
 Premier-League-AI-Scheduler/
-├── app.py                 # Main Streamlit UI
-├── data_loader.py          # Loads teams, slots, distances
-├── round_robin.py          # Generates double round robin
-├── greedy_scheduler.py     # Greedy match assignment
-├── csp_scheduler.py        # CSP-based match scheduler
-├── teams.csv                # Team info + coordinates
-├── slots.csv                # Calendar time slots
-├── distances.csv            # Reserved for future use
-└── README.md
-```
+│
+├── app.py                         # Main Streamlit UI
+├── README.md                      # Project documentation
+├── requirements.txt               # Python dependencies
+├── .gitignore                     # Ignored files
+│
+├── src/
+│   ├── data_loader.py             # Loads teams, slots, and distances
+│   ├── round_robin.py             # Generates double round-robin fixtures
+│   ├── greedy_scheduler.py        # Greedy-based match scheduling
+│   └── csp_scheduler.py           # CSP-based match scheduling
+│
+├── data/
+│   ├── teams.csv                  # Team information and coordinates
+│   ├── slots.csv                  # Calendar time slots
+│   ├── distances.csv              # Distance data
+│   └── off_weeks.csv              # Off-week information
+│
+├── assets/
+ └── pl_club_map.png             # Premier League club map
+
 
 ## Installation
 
