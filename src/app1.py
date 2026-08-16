@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from data_loader import load_data
-from round_robin import generate_double_round_robin
-from greedy_scheduler import greedy_schedule
-from csp_scheduler import run_basic_csp_with_homeaway
+from src.data_loader import load_data
+from src.round_robin import generate_double_round_robin
+from src.greedy_scheduler import greedy_schedule
+from src.csp_scheduler import run_basic_csp_with_homeaway
 
 
 # -------------------------------------------------------
